@@ -3,10 +3,10 @@
 > A decentralized shopping tracker and reward system built on the Stellar blockchain with gamification features and NFT incentives.
 
 **Creator:** Revano Fabiansyah Priadi  
-**License:** MIT  
 **Language:** English  
 **Status:** Production-Ready MVP ✅
 
+ID Smart Contract : CBNQEH27OSPM26LDOSJWG7JUZEME2UMM67CV4SVJXZKCUI6JJDBXVAZZ
 ---
 
 ## 📋 Overview
