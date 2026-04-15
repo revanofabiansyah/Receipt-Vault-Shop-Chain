@@ -6,7 +6,7 @@
 **Language:** English  
 **Status:** Production-Ready MVP ✅
 
-**ID Smart Contract** : CBNQEH27OSPM26LDOSJWG7JUZEME2UMM67CV4SVJXZKCUI6JJDBXVAZZ
+## ID Smart Contract: CBNQEH27OSPM26LDOSJWG7JUZEME2UMM67CV4SVJXZKCUI6JJDBXVAZZ
 ---
 
 ## 📋 Overview
@@ -16,6 +16,8 @@ Receipt Vault Shop Chain is a Web3 application that transforms everyday shopping
 This project combines a responsive, modern frontend with a Rust-based smart contract on Soroban, designed for both demo use and real-world deployment on the Stellar testnet.
 
 ---
+## Screenshoot Testnet
+<img width="1918" height="1078" alt="Stellar Expert 1" src="https://github.com/user-attachments/assets/828715a1-d5d6-4629-a4c1-f6fa692667b7" />
 
 ## ✨ Features
 
